@@ -1,0 +1,7 @@
+#incloude<studio.h>
+#include<studlib.h>
+
+void main{
+printf("hello world");
+system("pause")
+}
