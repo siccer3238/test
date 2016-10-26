@@ -3,5 +3,6 @@
 
 void main{
 printf("hello world");
+printf(" 87");
 system("pause")
 }
